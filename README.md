@@ -2,7 +2,7 @@
 Prove a number is irrational using proof by contradiction.   
 Understand max, min, inf, sup  
 
-Let $$L$$ be the sup$$: 
+Let $$L$$ be the sup: 
 
 $$
 \forall \epsilon > 0 \exists s \in S st. L- \epsilon < s
